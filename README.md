@@ -3,7 +3,9 @@
 
 <img src = 'https://github.com/dhwani123s/Images/blob/main/Focus_hospital_111921.jpg'>
 
-Project Overview: This project aims to predict patient readmission within 30 days using a machine learning model. The dataset includes patient information such as demographics, medical history, and hospital readmission records. The goal is to identify key factors contributing to readmissions and improve healthcare management.
+Project Overview: 
+
+This project aims to predict patient readmission within 30 days using a machine learning model. The dataset includes patient information such as demographics, medical history, and hospital readmission records. The goal is to identify key factors contributing to readmissions and improve healthcare management.
 
 Skills Developed:
 
